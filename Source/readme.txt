@@ -2,9 +2,9 @@
 Contributors: ecpaytechsupport
 Tags: ecommerce, e-commerce, store, sales, sell, shop, cart, checkout, invoice, ecpay
 Requires at least: 4.5
-Tested up to: 5.3
+Tested up to: 5.4
 Requires PHP: 5.6 or later
-Stable tag: 1.1.1910210
+Stable tag: 1.1.2007070
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -66,36 +66,40 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
-V1.1.2003020
+v1.1.2007070
+修正相容性至 WordPress Version 5.4.2
+修正相容性至 WooCommerce Version 4.2.2
+
+v1.1.2003020
 調整 cURL timeout
 
-V1.1.2002130
+v1.1.2002130
 更新電子發票SDK
 修正買受人名稱與買受人地址內容
 
-V1.1.1910210
+v1.1.1910210
 優化程式架構
 
-V1.1.190926
+v1.1.190926
 優化程式架構
 
-V1.1.190816
+v1.1.190816
 優化程式架構
 
-V1.1.190422
+v1.1.190422
 新增電子發票載具編號API驗證
 
-V1.1.181023
+v1.1.181023
 修正無法正常開立發票問題(CustomerID、Donation )
 
-V1.1.180606
+v1.1.180606
 新增綠界載具
 
-V1.1.1023
+v1.1.1023
 更新安裝文件適用版本資訊
 
-V1.1.0911
-電子發票開立備註欄增加信用卡卡號後4碼,需搭配https://github.com/ECPay/WooCommerce_Payment 綠界科技金流模組V1.1.0911 以上使用
+v1.1.0911
+電子發票開立備註欄增加信用卡卡號後4碼,需搭配https://github.com/ECPay/WooCommerce_Payment 綠界科技金流模組v1.1.0911 以上使用
 
-V1.1.0801
+v1.1.0801
 Official release
